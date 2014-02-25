@@ -45,3 +45,6 @@ DISPLAY_CATEGORIES_ON_MENU = True
 
 STATIC_PATHS = ['data']
 
+PLUGIN_PATH = '/home/zunbeltz/software/pelican-plugins'
+PLUGINS = [u"pdf"
+           ]
