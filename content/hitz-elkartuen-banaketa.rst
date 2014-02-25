@@ -8,6 +8,7 @@ Hitz elkartuen banaketa
 :author: TeXtnik
 :summary: Marratxoz elkartutako hitzak lerroz aldatzean bikoiztu behar al dute marratxoa?
 :lang: eu
+:status: draft
 
 Euskaltzaindiaren 13. arauak (1994ko azaroaren 25) lerro aldaketa arautzen du:
 
