@@ -18,10 +18,12 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+# Blogroll
+LINKS =  (('TUG', 'http://www.tug.org/'),
+          ('LaTeX', 'http://latex-project.org/'),
+          ('CervanTeX', 'http://www.cervantex.es/'),
+          )
+
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
@@ -30,5 +32,16 @@ SOCIAL = (('You can add links in your config file', '#'),
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = True
+# RELATIVE_URLS = True
+
+TYPOGRIFY = True
+
+# PAGEs settings
+PAGE_DIR = ('pages')
+ARTICLE_EXCLUDES = (('pages',))
+DEFAULT_CATEGORY = u'Blog'
+DISPLAY_PAGES_ON_MENU = True
+DISPLAY_CATEGORIES_ON_MENU = True
+
+STATIC_PATHS = ['data']
 

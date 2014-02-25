@@ -7,3 +7,5 @@ output
 
 pelican.pid
 srv.pid
+
+*~
