@@ -1,0 +1,41 @@
+Tipografia, ortotipografia eta mikrotipografia
+##############################################
+
+:date: 2014-02-07 18:00
+:category: Blog
+:tags: ortotipografia, tipografia, mikrotipografia
+:slug: tipografia sarrera
+:author: TeXtnik
+:summary: Zer da tipografia, ortotipografia eta mikrotipografia. 
+:lang: eu
+
+Blog honetan tipografia eta ortotipografia buruz arituko gara gehienetan.
+Baina zer demontre da ortotipografia? 
+Lehenengo ikusi dezagun zer den ortografia eta tipografia:
+
+Ortografia:
+    «hizkuntza bateko hitzak idazteko arauen multzoa» (`Egungo Euskararen Hiztegia <http://www.ehu.es/eeh/cgi/bila?z=Ortografia>`_). Beraz ortografia *arau multzoa* da.
+Tipografia:
+    Liburuak, aldizkariak, ... sortzeko inprenta letren sorkuntza eta konbinazioaren artea da.
+    Helburuak ditu irakurketa erraztea eta edukia modu eraginkor batean transmititzea.
+Ortotipografia:
+    Aurreko bien konbinaketa da. 
+    Inprimatutako lanetan ortografiaren aplikazioa gauzatzen du. 
+    Adibide batez errazago ikus daiteke:
+
+    * Ortografiak dio siglak maiuskulaz idatzi behar direla. Honek, testu blokearen gris kolorea aldatu dezake eta, beraz, irakurlearen arreta galarazi daiteke.http://www.tex-tipografia.com/ortotypo.html Hau konpontzeko ortotipografiak «maiuskula txikiak» erabiltzea gomenda dezake (edo letra tamaina txikiago bat 
+
+Tipografiaren barruan; **makrotipografiak** orrialdean testu blokeen banaketaz eta honen efektu globalaz arduratzen da. **Mikrotipografia**, aldiz, letren eta zeinuen besteen posizioekiko kokapenaz; letren eta hitzen arteko espazioaz, etab. arduratzen da.
+
+Tipografian eta ortotipografian hiru faktore izan behar dira kontutan:
+
+Tradizioa:
+    Erabiltzen den kodigoa eta bere esanahia ahalbideratzen du; ezagunak diren formak antzematen laguntzen duelako.
+Uniformetasuna:
+    Erabiltzen diren kodeak behin eta berriro aztertu behar ez izatea ahalbideratzen du; kodigoak aldi berean *ikusezin* eta *ezagun* egiten ditu.
+Estetika:
+    Liburu eder batek irakurria izatera gonbidatzen gaitu.
+
+Faktore hauek ez dira absolutuak eta edukiaren transmisioa hobetzeko kodigoren bat aldatzea beharrezkoa baldin bada; aurrera!
+
+(Sarrera honen testu http://www.tex-tipografia.com/ortotypo.html webgune bikainetik laburtua eta moldatua dago.)

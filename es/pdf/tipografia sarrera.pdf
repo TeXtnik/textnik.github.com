@@ -1,0 +1,513 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 5 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER1': class PDFDictionary 
+4 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.ehu.es/eeh/cgi/bila?z=Ortografia) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 367.4262
+ 529.9236
+ 525.2507
+ 541.9236 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'F3': class PDFType1Font 
+5 0 obj
+% Font Helvetica-Oblique
+<< /BaseFont /Helvetica-Oblique
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER2': class PDFDictionary 
+6 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.tex-tipografia.com/ortotypo.html) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 190.3044
+ 128.9236
+ 425.7935
+ 140.9236 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page1': class PDFPage 
+7 0 obj
+% Page dictionary
+<< /Annots [ 4 0 R
+ 6 0 R ]
+ /Contents 11 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 10 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R8': class PDFCatalog 
+8 0 obj
+% Document Root
+<< /Outlines 12 0 R
+ /PageLabels 13 0 R
+ /PageMode /UseNone
+ /Pages 10 0 R
+ /Type /Catalog >>
+endobj
+% 'R9': class PDFInfo 
+9 0 obj
+<< /Author (TeXtnik)
+ /CreationDate (D:20140307090120-01'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (Tipografia, ortotipografia eta mikrotipografia) >>
+endobj
+% 'R10': class PDFPages 
+10 0 obj
+% page tree
+<< /Count 1
+ /Kids [ 7 0 R ]
+ /Type /Pages >>
+endobj
+% 'R11': class PDFStream 
+11 0 obj
+% page stream
+<< /Length 7386 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 707.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 33.6 Tm /F2 24 Tf 28.8 TL 71.58888 0 Td (Tipografia, ortotipografia eta) Tj T* 76.008 0 Td (mikrotipografia) Tj T* -147.5969 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 682.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL 43.03937 0 Td (Date:) Tj T* -43.03937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (2014-02-07 18:00) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 667.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL 19.02737 0 Td (category:) Tj T* -19.02737 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 0 Tm 12 TL /F1 12 Tf 0 0 0 rg (Blog) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 652.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL 44.37137 0 Td (tags:) Tj T* -44.37137 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (ortotipografia, tipografia, mikrotipografia) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 637.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL 44.37137 0 Td (slug:) Tj T* -44.37137 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (tipografia sarrera) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 622.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL 29.71937 0 Td (Author:) Tj T* -29.71937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (TeXtnik) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 607.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL 15.69137 0 Td (summary:) Tj T* -15.69137 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Zer da tipografia, ortotipografia eta mikrotipografia.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 592.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL 44.37137 0 Td (lang:) Tj T* -44.37137 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (eu) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 562.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL 3.298176 Tw (Blog honetan tipografia eta ortotipografia buruz arituko gara gehienetan. Baina zer) Tj T* 0 Tw (demontre da ortotipografia? Lehenengo ikusi dezagun zer den ortografia eta tipografia:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 546.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL (Ortografia:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 519.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 10 0 cm
+q
+BT 1 0 0 1 0 12 Tm 2.54422 Tw 12 TL /F1 12 Tf 0 0 0 rg (\253hizkuntza bateko hitzak idazteko arauen multzoa\273 \() Tj 0 0 .501961 rg (Egungo Euskararen Hiztegia) Tj 0 0 0 rg (\).) Tj T* 0 Tw (Beraz ortografia ) Tj /F3 12 Tf (arau multzoa ) Tj /F1 12 Tf (da.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 503.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL (Tipografia:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 464.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 26 Tm  T* ET
+q
+1 0 0 1 10 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 24 Tm /F1 12 Tf 12 TL 1.594863 Tw (Liburuak, aldizkariak, ... sortzeko inprenta letren sorkuntza eta konbinazioaren artea) Tj T* 0 Tw 8.189529 Tw (da. Helburuak ditu irakurketa erraztea eta edukia modu eraginkor batean) Tj T* 0 Tw (transmititzea.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 448.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL (Ortotipografia:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 355.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 80 Tm  T* ET
+q
+1 0 0 1 10 66 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL 8.146538 Tw (Aurreko bien konbinaketa da. Inprimatutako lanetan ortografiaren aplikazioa) Tj T* 0 Tw (gauzatzen du. Adibide batez errazago ikus daiteke:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 60 cm
+Q
+q
+1 0 0 1 10 60 cm
+Q
+q
+1 0 0 1 10 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL 9.8 0 Td (\177) Tj T* -9.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 48 Tm /F1 12 Tf 12 TL .706176 Tw (Ortografiak dio siglak maiuskulaz idatzi behar direla. Honek, testu blokearen gris) Tj T* 0 Tw 15.67797 Tw (kolorea aldatu dezake eta, beraz, irakurlearen arreta galarazi) Tj T* 0 Tw 33.86688 Tw (daiteke.http://www.tex-tipografia.com/ortotypo.html Hau konpontzeko) Tj T* 0 Tw 6.532252 Tw (ortotipografiak \253maiuskula txikiak\273 erabiltzea gomenda dezake \(edo letra) Tj T* 0 Tw (tamaina txikiago bat) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 10 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 313.4236 cm
+q
+BT 1 0 0 1 0 24 Tm .45822 Tw 12 TL /F1 12 Tf 0 0 0 rg (Tipografiaren barruan; ) Tj /F2 12 Tf (makrotipografiak ) Tj /F1 12 Tf (orrialdean testu blokeen banaketaz eta honen) Tj T* 0 Tw 4.335307 Tw (efektu globalaz arduratzen da. ) Tj /F2 12 Tf (Mikrotipografia) Tj /F1 12 Tf (, aldiz, letren eta zeinuen besteen) Tj T* 0 Tw (posizioekiko kokapenaz; letren eta hitzen arteko espazioaz, etab. arduratzen da.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 295.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Tipografian eta ortotipografian hiru faktore izan behar dira kontutan:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 279.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL (Tradizioa:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 252.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 10 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL 1.098176 Tw (Erabiltzen den kodigoa eta bere esanahia ahalbideratzen du; ezagunak diren formak) Tj T* 0 Tw (antzematen laguntzen duelako.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 236.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL (Uniformetasuna:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 209.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 10 0 cm
+q
+BT 1 0 0 1 0 12 Tm 1.484888 Tw 12 TL /F1 12 Tf 0 0 0 rg (Erabiltzen diren kodeak behin eta berriro aztertu behar ez izatea ahalbideratzen du;) Tj T* 0 Tw (kodigoak aldi berean ) Tj /F3 12 Tf (ikusezin ) Tj /F1 12 Tf (eta ) Tj /F3 12 Tf (ezagun ) Tj /F1 12 Tf (egiten ditu.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 193.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL (Estetika:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 178.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 10 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Liburu eder batek irakurria izatera gonbidatzen gaitu.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 148.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL 1.699776 Tw (Faktore hauek ez dira absolutuak eta edukiaren transmisioa hobetzeko kodigoren bat) Tj T* 0 Tw (aldatzea beharrezkoa baldin bada; aurrera!) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 118.4236 cm
+q
+BT 1 0 0 1 0 12 Tm 4.741153 Tw 12 TL /F1 12 Tf 0 0 0 rg (\(Sarrera honen testu ) Tj 0 0 .501961 rg (http://www.tex-tipografia.com/ortotypo.html ) Tj 0 0 0 rg (webgune bikainetik) Tj T* 0 Tw (laburtua eta moldatua dago.\)) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R12': class PDFOutlines 
+12 0 obj
+<< /Count 0
+ /Type /Outlines >>
+endobj
+% 'R13': class PDFPageLabels 
+13 0 obj
+% Document Root
+<< /Nums [ 0
+ 14 0 R ] >>
+endobj
+% 'R14': class PDFPageLabel 
+14 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+xref
+0 15
+0000000000 65535 f
+0000000113 00000 n
+0000000233 00000 n
+0000000398 00000 n
+0000000585 00000 n
+0000000834 00000 n
+0000001027 00000 n
+0000001274 00000 n
+0000001581 00000 n
+0000001738 00000 n
+0000002035 00000 n
+0000002142 00000 n
+0000009629 00000 n
+0000009712 00000 n
+0000009805 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(N\021\3266\202\376/\322\300\267\214\202\002\313\2200) (N\021\3266\202\376/\322\300\267\214\202\002\313\2200)] 
+
+ /Info 9 0 R
+ /Root 8 0 R
+ /Size 15 >>
+startxref
+9852
+%%EOF
