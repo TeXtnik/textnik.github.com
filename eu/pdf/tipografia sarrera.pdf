@@ -116,7 +116,7 @@ endobj
 % 'R10': class PDFInfo 
 10 0 obj
 << /Author (TeXtnik)
- /CreationDate (D:20140326112718-01'00')
+ /CreationDate (D:20140401165139-01'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
@@ -134,7 +134,7 @@ endobj
 % 'R12': class PDFStream 
 12 0 obj
 % page stream
-<< /Length 7750 >>
+<< /Length 7759 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -200,7 +200,7 @@ q
 1 0 0 1 91.03937 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (ortotipografia, tipografia, mikrotipografia) Tj T* ET
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (ortotipografia, tipografia, mikrotipografia, euskara) Tj T* ET
 Q
 Q
 q
@@ -556,19 +556,19 @@ xref
 0000002030 00000 n
 0000002328 00000 n
 0000002443 00000 n
-0000010292 00000 n
-0000010711 00000 n
-0000010794 00000 n
-0000010900 00000 n
-0000010977 00000 n
+0000010301 00000 n
+0000010720 00000 n
+0000010803 00000 n
+0000010909 00000 n
+0000010986 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\241KU\271\015\271s\333\016\262\037\032\3251\337\300) (\241KU\271\015\271s\333\016\262\037\032\3251\337\300)] 
+ [(\307\203Ko\276;;c\317#\004\3633"\255\023) (\307\203Ko\276;;c\317#\004\3633"\255\023)] 
 
  /Info 10 0 R
  /Root 9 0 R
  /Size 18 >>
 startxref
-11024
+11033
 %%EOF

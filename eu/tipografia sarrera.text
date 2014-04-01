@@ -1,42 +1,46 @@
-Tipografia, ortotipografia eta mikrotipografia
-##############################################
+Tipografía, ortotipografía y microtipografía
+############################################
 
 :date: 2014-03-25 18:00
 :category: Blog
-:tags: ortotipografia, tipografia, mikrotipografia
+:tags: ortotipografía, tipografía, microtipografía, castellano
 :slug: tipografia sarrera
 :author: TeXtnik
-:summary: Zer dira tipografia, ortotipografia eta mikrotipografia. 
-:lang: eu
+:summary: ¿Que es la ortotipografía y microtipografía?
+:lang: es
 
-Blog honetan tipografia eta ortotipografiari buruz arituko gara gehienetan.
-Baina zer demontre da ortotipografia? 
-Lehenengo ikusi dezagun zer diren ortografia eta tipografia:
+En este blog nos centraremos principalmente ne la ortotipografía.
+Pero, ¿que demonios es la ortotipografía?
+Primero, veamos que son la ortografía y la tipografía:
 
-Ortografia:
-    «hizkuntza bateko hitzak idazteko arauen multzoa» (`Egungo Euskararen Hiztegia <http://www.ehu.es/eeh/cgi/bila?z=Ortografia>`_). Beraz ortografia *arau multzoa* da.
-Tipografia:
-    Liburuak, aldizkariak, ... sortzeko inprenta letren sorkuntza eta konbinazioaren artea da.
-    Helburuak ditu irakurketa erraztea eta edukia modu eraginkor batean irakurleari transmititzea.
-Ortotipografia:
-    Aurreko bien konbinaketa da. 
-    Inprimatutako lanetan ortografiaren aplikazioa gauzatzen du. 
-    Adibide batez bidez errazago ikus daiteke:
 
-    * Ortografiak dio siglak maiuskulaz idatzi behar direla. Honek, testu blokearen gris kolorea aldatu dezake eta, beraz, irakurlearen arreta galarazi daiteke. Hau konpontzeko ortotipografiak «maiuskula txikiak» erabiltzea gomenda dezake (edo letra tamaina txikiago bat).
 
-Tipografiaren barruan; **makrotipografiak** orrialdean testu blokeen banaketaz eta honen efektu globalaz arduratzen da. **Mikrotipografia**, aldiz, letren eta zeinuen kokapenaz; letren eta hitzen arteko espazioaz,... arduratzen da.
+Ortografía:
+    «Conjunto de normas que regulan la escritura de una lengua.» (`Diccionario de la Real Academia de la Lengua <http://lema.rae.es/drae/?val=ortografía>`_). Por lo tanto, la ortografía es un *conjunto de normas*. 
+Tipografía:
+    Es el arte de la creación y combinación de tipos de imprenta para la composición de libros, revistas, ...
+    Sus objetivos son facilitar la lectura y la transmisión eficiente del contenido al lector.
+Ortotipografía:
+    Es la combinación de los anteriores.
+    Ejecuta la aplicación de la ortografía en los trabajos impresos.
+    Un ejemplo lo muestra mas claramente:
 
-Tipografian eta ortotipografian hiru faktore izan behar dira kontuan:
+    * La ortografía dice que las siglas deben escribirse en mayúsculas. Esto puedo cambiar el gris del bloque de texto y por lo tanto distraer la atención del lector. Para solucionarlo la ortotipografía recomienda la utilización de «versalitas» (o mayúsculas en un tamaño menor).
 
-Tradizioa:
-    Erabiltzen den kodigoa eta bere esanahia ahalbideratzen ditu; ezagunak diren formak antzematen laguntzen duelako.
-Uniformetasuna:
-    Erabiltzen diren kodeak behin eta berriro aztertu behar ez izatea ahalbideratzen du; kodigoak aldi berean *ikusezin* eta *ezagun* egiten ditu.
-Estetika:
-    Liburu eder batek irakurria izatera gonbidatzen gaitu.
 
-Faktore hauek ez dira absolutuak eta edukiaren transmisioa hobetzeko kodigoren bat aldatzea beharrezkoa baldin bada; aurrera!
+Dentro del campo de la tipografía; la **macrotipografía** se encarga de la distribución de los bloques de texto en la página y su efecto global. La **microtipografía,** por otro lado, se encarga de la posición de letras y signos, el espacio entre palabras, ... 
+
+El la tipografía y la ortotipografía hay que tener en cuenta tres factores:
+
+
+Tradición:
+    Permite la compresión del código usado, así como de su significado; porque permite reconocer las formas que son familiares.
+Uniformidad
+    Permite no tener que examinar una y otra vez los códigos utilizados; haciendo que los códigos sean al mismo tiempo *invisibles* y *conocidos.*
+Estética:
+    Un libro bonito invita a su lectura.
+
+Estos factores no son absolutos y si para mejorar la transmisión del contenido hay que cambiar algún código; adelante!    
 
     If you use this book as a guide, by all means leave the road
     when you wish. That is precisely the use of a road: to reach individually
@@ -44,4 +48,4 @@ Faktore hauek ez dira absolutuak eta edukiaren transmisioa hobetzeko kodigoren b
     and break them beautifully, deliberately and well. That is one of
     the ends for which they exist. -- The Elements of Typographic Style (Robert Bringhurst)
 
-(Sarrera honen testua http://www.tex-tipografia.com/ortotypo.html webgune bikainetik laburtua eta moldatua dago.)
+(El texto de esta introducción esta resumido y adaptado el la magnifica página web http://www.tex-tipografia.com/ortotypo.html.)

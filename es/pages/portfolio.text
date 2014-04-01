@@ -1,13 +1,11 @@
 Title: Portfolio
 Date: 2013-09-04 10:20
-Tags: pelican, publishing
+Tags: TeXtnik
 Author: TeXtnik
 Summary: My portfolio
 lang: en
 slug: portfolio
 
-This is my portfolio
-
 <object data="../data/portfolio.pdf" type="application/pdf" width="100%" height="600">
-  <p>This is our portfolio <a href="../data/portfolio.pdf">to the PDF!</a></p>
+  <p>This is our portfolio <a href="../data/portfolio.pdf">portfolio</a>.</p>
 </object>

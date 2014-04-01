@@ -4,7 +4,8 @@
 1 0 obj
 % The standard fonts dictionary
 << /F1 2 0 R
- /F2 3 0 R >>
+ /F2 3 0 R
+ /F3 10 0 R >>
 endobj
 % 'F1': class PDFType1Font 
 2 0 obj
@@ -39,54 +40,35 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Page1': class PDFPage 
-5 0 obj
-% Page dictionary
-<< /Annots [ 4 0 R ]
- /Contents 16 0 R
- /MediaBox [ 0
- 0
- 595.2756
- 841.8898 ]
- /Parent 15 0 R
- /Resources << /Font 1 0 R
- /ProcSet [ /PDF
- /Text
- /ImageB
- /ImageC
- /ImageI ] >>
- /Rotate 0
- /Trans <<  >>
- /Type /Page >>
-endobj
 % 'Annot.NUMBER2': class LinkAnnotation 
-6 0 obj
+5 0 obj
 << /Border [ 0
  0
  0 ]
  /Contents ()
- /Dest [ 9 0 R
+ /Dest [ 12 0 R
  /XYZ
  68.69291
  736.6772
  0 ]
- /Rect [ 506.8969
- 84.32362
- 512.4569
- 96.32362 ]
+ /Rect [ 466.2409
+ 384.5236
+ 471.8009
+ 396.5236 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Page2': class PDFPage 
-7 0 obj
+% 'Page1': class PDFPage 
+6 0 obj
 % Page dictionary
-<< /Annots [ 6 0 R ]
- /Contents 17 0 R
+<< /Annots [ 4 0 R
+ 5 0 R ]
+ /Contents 19 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 15 0 R
+ /Parent 18 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -98,33 +80,33 @@ endobj
  /Type /Page >>
 endobj
 % 'Annot.NUMBER3': class LinkAnnotation 
-8 0 obj
+7 0 obj
 << /Border [ 0
  0
  0 ]
  /Contents ()
- /Dest [ 7 0 R
+ /Dest [ 12 0 R
  /XYZ
- 506.8969
- 97.82362
+ 68.69291
+ 712.6772
  0 ]
- /Rect [ 68.69291
- 723.1772
- 75.36491
- 735.1772 ]
+ /Rect [ 506.8969
+ 114.3236
+ 512.4569
+ 126.3236 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Page3': class PDFPage 
-9 0 obj
+% 'Page2': class PDFPage 
+8 0 obj
 % Page dictionary
-<< /Annots [ 8 0 R ]
- /Contents 18 0 R
+<< /Annots [ 7 0 R ]
+ /Contents 20 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 15 0 R
+ /Parent 18 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -135,67 +117,133 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-% 'R10': class PDFCatalog 
+% 'Annot.NUMBER4': class LinkAnnotation 
+9 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 6 0 R
+ /XYZ
+ 466.2409
+ 398.0236
+ 0 ]
+ /Rect [ 68.69291
+ 723.1772
+ 75.36491
+ 735.1772 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'F3': class PDFType1Font 
 10 0 obj
+% Font Courier
+<< /BaseFont /Courier
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER5': class LinkAnnotation 
+11 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 8 0 R
+ /XYZ
+ 506.8969
+ 127.8236
+ 0 ]
+ /Rect [ 68.69291
+ 699.1772
+ 75.36491
+ 711.1772 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page3': class PDFPage 
+12 0 obj
+% Page dictionary
+<< /Annots [ 9 0 R
+ 11 0 R ]
+ /Contents 21 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 18 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R13': class PDFCatalog 
+13 0 obj
 % Document Root
-<< /Outlines 12 0 R
- /PageLabels 19 0 R
+<< /Outlines 15 0 R
+ /PageLabels 22 0 R
  /PageMode /UseNone
- /Pages 15 0 R
+ /Pages 18 0 R
  /Type /Catalog >>
 endobj
-% 'R11': class PDFInfo 
-11 0 obj
+% 'R14': class PDFInfo 
+14 0 obj
 << /Author (TeXtnik)
- /CreationDate (D:20140228095248-01'00')
+ /CreationDate (D:20140401165139-01'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
  /Subject (\(unspecified\))
  /Title (Hitz elkartuen banaketa) >>
 endobj
-% 'R12': class PDFOutlines 
-12 0 obj
+% 'R15': class PDFOutlines 
+15 0 obj
 << /Count 2
- /First 13 0 R
- /Last 14 0 R
+ /First 16 0 R
+ /Last 17 0 R
  /Type /Outlines >>
 endobj
 % 'Outline.0': class OutlineEntryObject 
-13 0 obj
-<< /Dest [ 5 0 R
+16 0 obj
+<< /Dest [ 6 0 R
  /XYZ
  62.69291
  477.2236
  0 ]
- /Next 14 0 R
- /Parent 12 0 R
+ /Next 17 0 R
+ /Parent 15 0 R
  /Title (Zenbat aldiz mozten da hitz elkartu bat?) >>
 endobj
 % 'Outline.1': class OutlineEntryObject 
-14 0 obj
-<< /Dest [ 7 0 R
+17 0 obj
+<< /Dest [ 8 0 R
  /XYZ
  62.69291
- 153.0236
+ 183.0236
  0 ]
- /Parent 12 0 R
- /Prev 13 0 R
- /Title (Ondorioak) >>
+ /Parent 15 0 R
+ /Prev 16 0 R
+ /Title (Ondorioa) >>
 endobj
-% 'R15': class PDFPages 
-15 0 obj
+% 'R18': class PDFPages 
+18 0 obj
 % page tree
 << /Count 3
- /Kids [ 5 0 R
- 7 0 R
- 9 0 R ]
+ /Kids [ 6 0 R
+ 8 0 R
+ 12 0 R ]
  /Type /Pages >>
 endobj
-% 'R16': class PDFStream 
-16 0 obj
+% 'R19': class PDFStream 
+19 0 obj
 % page stream
-<< /Length 13669 >>
+<< /Length 13755 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -324,7 +372,7 @@ q
 1 0 0 1 91.03937 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL 2.087799 Tw (Marratxoz elkartutako hitzak lerroz aldatzean bikoiztu behar al dute) Tj T* 0 Tw (marratxoa?) Tj T* ET
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL 6.002799 Tw (Eleberri battetan zenbat aldiz bikoiztu behar da hitz elkartuen) Tj T* 0 Tw (marratxoa; lerro aldaketa batean banatzen direnean?) Tj T* ET
 Q
 Q
 q
@@ -390,7 +438,7 @@ q
 1 0 0 1 62.69291 489.2236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 36 Tm /F1 12 Tf 12 TL 5.305615 Tw (Hitz elkartuen osakera eta idazkerari buruzko 25. arauak ez du ezta honelako) Tj T* 0 Tw .566976 Tw (kasuetarako araurik edo gomendiori. Baina arauen bertan marratxoa bikoiztu egiten da!) Tj T* 0 Tw 2.631307 Tw (Erabilera honen aldeko eta kontrako argudioak daude. Alde; irakurlearen ulermenari) Tj T* 0 Tw (laguntzen dio eta kontra; behar ez diren zeinuak testuan ez jartzea.) Tj T* ET
+BT 1 0 0 1 0 36 Tm /F1 12 Tf 12 TL 5.305615 Tw (Hitz elkartuen osakera eta idazkerari buruzko 25. arauak ez du ezta honelako) Tj T* 0 Tw .566976 Tw (kasuetarako araurik edo gomendiori. Baina arauen bertan marratxoa bikoiztu egiten da!) Tj T* 0 Tw 2.631307 Tw (Erabilera honen aldeko eta kontrako argudioak daude. Alde; irakurlearen ulermenari) Tj T* 0 Tw (laguntzen dio eta kontra; behar ez diren zeinuak testuan ez jartzearen printzipioa.) Tj T* ET
 Q
 Q
 q
@@ -402,7 +450,7 @@ Q
 q
 1 0 0 1 62.69291 386.0236 cm
 q
-BT 1 0 0 1 0 48 Tm 1.120888 Tw 12 TL /F1 12 Tf 0 0 0 rg (Ikusi dezagun eleberri batean zenbat alditan mozten den hitz elkartu bat marratxoaren) Tj T* 0 Tw 4.633776 Tw (tokian. Argi dago mozketa faktore askoren menpe dagoela, eta beraz, azterketa) Tj T* 0 Tw .271069 Tw (estatistiko bat beharrezkoa dela. Kasu honetan ) Tj 0 0 .501961 rg (Susa argitaletxeko ) Tj 0 0 0 rg (14 ebook erabili dira.) Tj T* 0 Tw 1.121979 Tw (Hurrengo taulan liburu bakoitzaren karaktere eta hitz kopurua agertzen dira. Baita ere,) Tj T* 0 Tw (zenbat marratxodun hitz elkartu dauden eta guzti hauen karaktere kopurua.) Tj T* ET
+BT 1 0 0 1 0 48 Tm 1.120888 Tw 12 TL /F1 12 Tf 0 0 0 rg (Ikusi dezagun eleberri batean zenbat alditan mozten den hitz elkartu bat marratxoaren) Tj T* 0 Tw 4.633776 Tw (tokian. Argi dago mozketa faktore askoren menpe dagoela, eta beraz, azterketa) Tj T* 0 Tw .271069 Tw (estatistiko bat beharrezkoa dela. Kasu honetan ) Tj 0 0 .501961 rg (Susa argitaletxeko ) Tj 0 0 0 rg (14 ebook erabili dira.) Tj T* 0 Tw 1.121979 Tw (Hurrengo taulan liburu bakoitzaren karaktere eta hitz kopurua agertzen dira. Baita ere,) Tj T* 0 Tw (zenbat marratxodun hitz elkartu dauden eta guzti hauen karaktere kopurua. ) Tj /F1 10 Tf 0 0 .501961 rg 6 Ts (1) Tj T* ET
 Q
 Q
 q
@@ -413,27 +461,27 @@ q
 1 1 1 rg
 n 0 300 469.8898 -42 re f*
 .878431 .878431 .878431 rg
-n 0 258 469.8898 -18 re f*
+n 0 258 469.8898 -30 re f*
 1 1 1 rg
-n 0 240 469.8898 -30 re f*
+n 0 228 469.8898 -18 re f*
 .878431 .878431 .878431 rg
-n 0 210 469.8898 -18 re f*
+n 0 210 469.8898 -30 re f*
 1 1 1 rg
-n 0 192 469.8898 -30 re f*
+n 0 180 469.8898 -18 re f*
 .878431 .878431 .878431 rg
-n 0 162 469.8898 -18 re f*
+n 0 162 469.8898 -30 re f*
 1 1 1 rg
-n 0 144 469.8898 -30 re f*
+n 0 132 469.8898 -18 re f*
 .878431 .878431 .878431 rg
 n 0 114 469.8898 -18 re f*
 1 1 1 rg
 n 0 96 469.8898 -18 re f*
 .878431 .878431 .878431 rg
-n 0 78 469.8898 -18 re f*
+n 0 78 469.8898 -30 re f*
 1 1 1 rg
-n 0 60 469.8898 -30 re f*
+n 0 48 469.8898 -30 re f*
 .878431 .878431 .878431 rg
-n 0 30 469.8898 -30 re f*
+n 0 18 469.8898 -18 re f*
 .960784 .960784 .862745 rg
 n 0 300 469.8898 -42 re f*
 0 0 0 rg
@@ -507,462 +555,462 @@ Q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 243 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Alberdi U, Euli-giro) Tj T* ET
-Q
-Q
-q
-1 0 0 1 161.3355 243 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (21918) Tj T* ET
-Q
-Q
-q
-1 0 0 1 184.6358 243 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (159369) Tj T* ET
-Q
-Q
-q
-1 0 0 1 227.353 243 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (252) Tj T* ET
-Q
-Q
-q
-1 0 0 1 289.4872 243 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (3312) Tj T* ET
-Q
-Q
-q
-1 0 0 1 398.222 243 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (1.1) Tj T* ET
-Q
-Q
-q
-1 0 0 1 6 213 cm
+1 0 0 1 6 231 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (Alkasoroko Benta - Mikel) Tj T* (Taberna) Tj T* ET
 Q
 Q
 q
-1 0 0 1 161.3355 225 cm
+1 0 0 1 161.3355 243 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (30727) Tj T* ET
 Q
 Q
 q
-1 0 0 1 184.6358 225 cm
+1 0 0 1 184.6358 243 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (224896) Tj T* ET
 Q
 Q
 q
-1 0 0 1 227.353 225 cm
+1 0 0 1 227.353 243 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (258) Tj T* ET
 Q
 Q
 q
-1 0 0 1 289.4872 225 cm
+1 0 0 1 289.4872 243 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (3077) Tj T* ET
 Q
 Q
 q
-1 0 0 1 398.222 225 cm
+1 0 0 1 398.222 243 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (0.8) Tj T* ET
 Q
 Q
 q
-1 0 0 1 6 195 cm
+1 0 0 1 6 213 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Alter ero - Bertol Arrieta) Tj T* ET
 Q
 Q
 q
-1 0 0 1 161.3355 195 cm
+1 0 0 1 161.3355 213 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (26334) Tj T* ET
 Q
 Q
 q
-1 0 0 1 184.6358 195 cm
+1 0 0 1 184.6358 213 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (194096) Tj T* ET
 Q
 Q
 q
-1 0 0 1 227.353 195 cm
+1 0 0 1 227.353 213 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (358) Tj T* ET
 Q
 Q
 q
-1 0 0 1 289.4872 195 cm
+1 0 0 1 289.4872 213 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (4541) Tj T* ET
 Q
 Q
 q
-1 0 0 1 398.222 195 cm
+1 0 0 1 398.222 213 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (1.4) Tj T* ET
 Q
 Q
 q
-1 0 0 1 6 165 cm
+1 0 0 1 6 183 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (Andaluziari ene bilduma -) Tj T* (Jon Inaki Lasa) Tj T* ET
 Q
 Q
 q
-1 0 0 1 161.3355 177 cm
+1 0 0 1 161.3355 195 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (2455) Tj T* ET
 Q
 Q
 q
-1 0 0 1 184.6358 177 cm
+1 0 0 1 184.6358 195 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (19150) Tj T* ET
 Q
 Q
 q
-1 0 0 1 227.353 177 cm
+1 0 0 1 227.353 195 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (4) Tj T* ET
 Q
 Q
 q
-1 0 0 1 289.4872 177 cm
+1 0 0 1 289.4872 195 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (53) Tj T* ET
 Q
 Q
 q
-1 0 0 1 398.222 177 cm
+1 0 0 1 398.222 195 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (0.2) Tj T* ET
 Q
 Q
 q
-1 0 0 1 6 147 cm
+1 0 0 1 6 165 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Atzerri - Mikel Antza) Tj T* ET
 Q
 Q
 q
-1 0 0 1 161.3355 147 cm
+1 0 0 1 161.3355 165 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (59226) Tj T* ET
 Q
 Q
 q
-1 0 0 1 184.6358 147 cm
+1 0 0 1 184.6358 165 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (445225) Tj T* ET
 Q
 Q
 q
-1 0 0 1 227.353 147 cm
+1 0 0 1 227.353 165 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (857) Tj T* ET
 Q
 Q
 q
-1 0 0 1 289.4872 147 cm
+1 0 0 1 289.4872 165 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (10998) Tj T* ET
 Q
 Q
 q
-1 0 0 1 398.222 147 cm
+1 0 0 1 398.222 165 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (1.4) Tj T* ET
 Q
 Q
 q
-1 0 0 1 6 117 cm
+1 0 0 1 6 135 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (Azken afaria - Xabier) Tj T* (Montoia) Tj T* ET
 Q
 Q
 q
-1 0 0 1 161.3355 129 cm
+1 0 0 1 161.3355 147 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (44575) Tj T* ET
 Q
 Q
 q
-1 0 0 1 184.6358 129 cm
+1 0 0 1 184.6358 147 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (322458) Tj T* ET
 Q
 Q
 q
-1 0 0 1 227.353 129 cm
+1 0 0 1 227.353 147 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (194) Tj T* ET
 Q
 Q
 q
-1 0 0 1 289.4872 129 cm
+1 0 0 1 289.4872 147 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (2259) Tj T* ET
 Q
 Q
 q
-1 0 0 1 398.222 129 cm
+1 0 0 1 398.222 147 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (0.4) Tj T* ET
 Q
 Q
 q
-1 0 0 1 6 99 cm
+1 0 0 1 6 117 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Basilika - Itxaro Borda) Tj T* ET
 Q
 Q
 q
-1 0 0 1 161.3355 99 cm
+1 0 0 1 161.3355 117 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (14708) Tj T* ET
 Q
 Q
 q
-1 0 0 1 184.6358 99 cm
+1 0 0 1 184.6358 117 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (111211) Tj T* ET
 Q
 Q
 q
-1 0 0 1 227.353 99 cm
+1 0 0 1 227.353 117 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (50) Tj T* ET
 Q
 Q
 q
-1 0 0 1 289.4872 99 cm
+1 0 0 1 289.4872 117 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (594) Tj T* ET
 Q
 Q
 q
-1 0 0 1 398.222 99 cm
+1 0 0 1 398.222 117 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (0.3) Tj T* ET
 Q
 Q
 q
-1 0 0 1 6 81 cm
+1 0 0 1 6 99 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Boga boga - Itxaro Borda) Tj T* ET
 Q
 Q
 q
-1 0 0 1 161.3355 81 cm
+1 0 0 1 161.3355 99 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (39645) Tj T* ET
 Q
 Q
 q
-1 0 0 1 184.6358 81 cm
+1 0 0 1 184.6358 99 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (309884) Tj T* ET
 Q
 Q
 q
-1 0 0 1 227.353 81 cm
+1 0 0 1 227.353 99 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (276) Tj T* ET
 Q
 Q
 q
-1 0 0 1 289.4872 81 cm
+1 0 0 1 289.4872 99 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (3313) Tj T* ET
 Q
 Q
 q
-1 0 0 1 398.222 81 cm
+1 0 0 1 398.222 99 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (0.7) Tj T* ET
 Q
 Q
 q
-1 0 0 1 6 63 cm
+1 0 0 1 6 81 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Euli-giro - Uxue Alberdi) Tj T* ET
 Q
 Q
 q
-1 0 0 1 161.3355 63 cm
+1 0 0 1 161.3355 81 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (21884) Tj T* ET
 Q
 Q
 q
-1 0 0 1 184.6358 63 cm
+1 0 0 1 184.6358 81 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (160331) Tj T* ET
 Q
 Q
 q
-1 0 0 1 227.353 63 cm
+1 0 0 1 227.353 81 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (271) Tj T* ET
 Q
 Q
 q
-1 0 0 1 289.4872 63 cm
+1 0 0 1 289.4872 81 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (3550) Tj T* ET
 Q
 Q
 q
-1 0 0 1 398.222 63 cm
+1 0 0 1 398.222 81 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (1.2) Tj T* ET
 Q
 Q
 q
-1 0 0 1 6 33 cm
+1 0 0 1 6 51 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (Hotel Majikoa - Pablo) Tj T* (Sastre) Tj T* ET
 Q
 Q
 q
-1 0 0 1 161.3355 45 cm
+1 0 0 1 161.3355 63 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (32474) Tj T* ET
 Q
 Q
 q
-1 0 0 1 184.6358 45 cm
+1 0 0 1 184.6358 63 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (231224) Tj T* ET
 Q
 Q
 q
-1 0 0 1 227.353 45 cm
+1 0 0 1 227.353 63 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (253) Tj T* ET
 Q
 Q
 q
-1 0 0 1 289.4872 45 cm
+1 0 0 1 289.4872 63 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (2968) Tj T* ET
 Q
 Q
 q
-1 0 0 1 398.222 45 cm
+1 0 0 1 398.222 63 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (0.8) Tj T* ET
 Q
 Q
 q
-1 0 0 1 6 3 cm
+1 0 0 1 6 21 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (Lehen bilduma 82-84 -) Tj T* (Mikel Antza) Tj T* ET
 Q
 Q
 q
-1 0 0 1 161.3355 15 cm
+1 0 0 1 161.3355 33 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (16032) Tj T* ET
 Q
 Q
 q
-1 0 0 1 184.6358 15 cm
+1 0 0 1 184.6358 33 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (120446) Tj T* ET
 Q
 Q
 q
-1 0 0 1 227.353 15 cm
+1 0 0 1 227.353 33 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (103) Tj T* ET
 Q
 Q
 q
-1 0 0 1 289.4872 15 cm
+1 0 0 1 289.4872 33 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (1156) Tj T* ET
 Q
 Q
 q
-1 0 0 1 398.222 15 cm
+1 0 0 1 398.222 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (0.6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Mussche - Kirmen Uribe) Tj T* ET
+Q
+Q
+q
+1 0 0 1 161.3355 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (30326) Tj T* ET
+Q
+Q
+q
+1 0 0 1 184.6358 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (222273) Tj T* ET
+Q
+Q
+q
+1 0 0 1 227.353 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (189) Tj T* ET
+Q
+Q
+q
+1 0 0 1 289.4872 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (2276) Tj T* ET
+Q
+Q
+q
+1 0 0 1 398.222 3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (0.6) Tj T* ET
@@ -975,16 +1023,16 @@ q
 .25 w
 n 0 0 m 469.8898 0 l S
 n 0 258 m 469.8898 258 l S
-n 0 240 m 469.8898 240 l S
+n 0 228 m 469.8898 228 l S
 n 0 210 m 469.8898 210 l S
-n 0 192 m 469.8898 192 l S
+n 0 180 m 469.8898 180 l S
 n 0 162 m 469.8898 162 l S
-n 0 144 m 469.8898 144 l S
+n 0 132 m 469.8898 132 l S
 n 0 114 m 469.8898 114 l S
 n 0 96 m 469.8898 96 l S
 n 0 78 m 469.8898 78 l S
-n 0 60 m 469.8898 60 l S
-n 0 30 m 469.8898 30 l S
+n 0 48 m 469.8898 48 l S
+n 0 18 m 469.8898 18 l S
 n 155.3355 0 m 155.3355 300 l S
 n 178.6358 0 m 178.6358 300 l S
 n 221.353 0 m 221.353 300 l S
@@ -998,66 +1046,22 @@ Q
  
 endstream
 endobj
-% 'R17': class PDFStream 
-17 0 obj
+% 'R20': class PDFStream 
+20 0 obj
 % page stream
-<< /Length 16367 >>
+<< /Length 15658 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 669.0236 cm
+1 0 0 1 62.69291 687.0236 cm
 1 1 1 rg
-n 0 96 469.8898 -18 re f*
-.878431 .878431 .878431 rg
 n 0 78 469.8898 -30 re f*
-1 1 1 rg
-n 0 48 469.8898 -30 re f*
 .878431 .878431 .878431 rg
+n 0 48 469.8898 -30 re f*
+1 1 1 rg
 n 0 18 469.8898 -18 re f*
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 81 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Mussche - Kirmen Uribe) Tj T* ET
-Q
-Q
-q
-1 0 0 1 161.3355 81 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (30326) Tj T* ET
-Q
-Q
-q
-1 0 0 1 184.6358 81 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (222273) Tj T* ET
-Q
-Q
-q
-1 0 0 1 227.353 81 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (189) Tj T* ET
-Q
-Q
-q
-1 0 0 1 289.4872 81 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (2276) Tj T* ET
-Q
-Q
-q
-1 0 0 1 398.222 81 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (0.6) Tj T* ET
-Q
-Q
 q
 1 0 0 1 6 51 cm
 q
@@ -1153,28 +1157,28 @@ q
 1 0 0 1 161.3355 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (373434) Tj T* ET
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (351516) Tj T* ET
 Q
 Q
 q
 1 0 0 1 184.6358 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (2764071) Tj T* ET
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (2604702) Tj T* ET
 Q
 Q
 q
 1 0 0 1 227.353 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (3221) Tj T* ET
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (2969) Tj T* ET
 Q
 Q
 q
 1 0 0 1 289.4872 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (39985) Tj T* ET
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (36673) Tj T* ET
 Q
 Q
 q
@@ -1189,35 +1193,34 @@ q
 1 j
 0 0 0 RG
 .25 w
-n 0 96 m 469.8898 96 l S
 n 0 78 m 469.8898 78 l S
 n 0 48 m 469.8898 48 l S
 n 0 18 m 469.8898 18 l S
-n 155.3355 0 m 155.3355 96 l S
-n 178.6358 0 m 178.6358 96 l S
-n 221.353 0 m 221.353 96 l S
-n 283.4872 0 m 283.4872 96 l S
-n 392.222 0 m 392.222 96 l S
-n 0 0 m 0 96 l S
-n 469.8898 0 m 469.8898 96 l S
+n 155.3355 0 m 155.3355 78 l S
+n 178.6358 0 m 178.6358 78 l S
+n 221.353 0 m 221.353 78 l S
+n 283.4872 0 m 283.4872 78 l S
+n 392.222 0 m 392.222 78 l S
+n 0 0 m 0 78 l S
+n 469.8898 0 m 469.8898 78 l S
 n 0 0 m 469.8898 0 l S
 Q
 Q
 q
-1 0 0 1 62.69291 669.0236 cm
+1 0 0 1 62.69291 687.0236 cm
 Q
 q
-1 0 0 1 62.69291 591.0236 cm
+1 0 0 1 62.69291 621.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 60 Tm /F1 12 Tf 12 TL 2.497776 Tw (Taulan ikusi daitekenez, hitz konposatuak testuaren %1 osatzen dute. Liburu hauen) Tj T* 0 Tw 4.46322 Tw (PDF formatuaren maketazioa aztertzerakoan hurrengo taulan agertzen diren lerro) Tj T* 0 Tw 4.777974 Tw (banaketa kopurua aurkitzen dira. Esan beharra dago, badirudiela maketazio hau) Tj T* 0 Tw 1.770576 Tw (automatikoki egin dela kontu haundirik izan gabe lerrro mozketak gutxitzeko. Orrialde) Tj T* 0 Tw 3.549251 Tw (askotan jarraian agertzen dira lerro mozketa asko; kasu batzutan 6 lerro mozketa) Tj T* 0 Tw (jarraitua badira!) Tj T* ET
+BT 1 0 0 1 0 48 Tm /F1 12 Tf 12 TL 1.830576 Tw (Taulan ikusi daitekeenez, hitz konposatuak testuaren %1 osatzen dute. Liburu hauen) Tj T* 0 Tw 4.46322 Tw (PDF formatuaren maketazioa aztertzerakoan hurrengo taulan agertzen diren lerro) Tj T* 0 Tw 4.777974 Tw (banaketa kopurua aurkitzen dira. Esan beharra dago, badirudiela maketazio hau) Tj T* 0 Tw 2.101776 Tw (automatikoki egin dela kontuan izan gabe lerro mozketak gutxitzea. Orrialde askotan) Tj T* 0 Tw (jarraian agertzen dira lerro mozketa asko; kasu batzutan 6 lerro mozketa jarraitu badira!) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 585.0236 cm
+1 0 0 1 62.69291 615.0236 cm
 Q
 q
-1 0 0 1 62.69291 219.0236 cm
+1 0 0 1 62.69291 249.0236 cm
 1 1 1 rg
 n 0 366 469.8898 -30 re f*
 .878431 .878431 .878431 rg
@@ -1898,14 +1901,14 @@ q
 1 0 0 1 288.6681 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (0.00612249106481) Tj T* ET
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (0.00649709640489) Tj T* ET
 Q
 Q
 q
 1 0 0 1 373.1014 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (245.0) Tj T* ET
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (238.0) Tj T* ET
 Q
 Q
 q
@@ -1939,25 +1942,25 @@ n 469.8898 0 m 469.8898 366 l S
 Q
 Q
 q
-1 0 0 1 62.69291 219.0236 cm
+1 0 0 1 62.69291 249.0236 cm
 Q
 q
-1 0 0 1 62.69291 165.0236 cm
+1 0 0 1 62.69291 195.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 36 Tm /F1 12 Tf 12 TL 6.853974 Tw (Hitz konposatuei dagokin zatiketak honela kalkulatu dira: 2. taulako \253zatiketa) Tj T* 0 Tw .54222 Tw (karaktereekiko\273 1. taulako \253Hitz konposatuen karaktereak\273 zenbakiarekin biderkatu da;) Tj T* 0 Tw 1.360888 Tw (honek gutxi gorabeherako kopuru bat ematen digu. Guztira 13 liburu daudenez; bataz) Tj T* 0 Tw (bestez hitz konposatuei dagokien \253marratxo bikoizketa\273 245/13 = 19 dira.) Tj T* ET
+BT 1 0 0 1 0 36 Tm /F1 12 Tf 12 TL 6.11264 Tw (Hitz konposatuei dagokien zatiketak honela kalkulatu dira: 2. taulako \253zatiketa) Tj T* 0 Tw .54222 Tw (karaktereekiko\273 1. taulako \253Hitz konposatuen karaktereak\273 zenbakiarekin biderkatu da;) Tj T* 0 Tw 1.360888 Tw (honek gutxi gorabeherako kopuru bat ematen digu. Guztira 13 liburu daudenez; bataz) Tj T* 0 Tw (bestez hitz konposatuei dagokien \253marratxo bikoizketa\273 238/13 = 18 dira.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 127.8236 cm
+1 0 0 1 62.69291 157.8236 cm
 q
-BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf 0 0 0 rg (Ondorioak) Tj T* ET
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf 0 0 0 rg (Ondorioa) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 85.82362 cm
+1 0 0 1 62.69291 115.8236 cm
 q
-BT 1 0 0 1 0 24 Tm 2.090706 Tw 12 TL /F1 12 Tf 0 0 0 rg (Beraz, eleberri batean asko jota 19 aldiz \253bikoiztu\273 beharko da marratxoa. Benetan,) Tj T* 0 Tw .356983 Tw (kopuru hori txikiagoa izango da, 3 edo 4 aldiz txikiagoa, izan ere, datuak jasotzeko PDF) Tj T* 0 Tw (formatuko liburuen maketazioak ez du kontuan izan hitz zatiketen kopurua txikitzea ) Tj /F1 10 Tf 0 0 .501961 rg 6 Ts (1) Tj /F1 12 Tf 0 0 0 rg 0 Ts (.) Tj T* ET
+BT 1 0 0 1 0 24 Tm 2.090706 Tw 12 TL /F1 12 Tf 0 0 0 rg (Beraz, eleberri batean asko jota 18 aldiz \253bikoiztu\273 beharko da marratxoa. Benetan,) Tj T* 0 Tw .356983 Tw (kopuru hori txikiagoa izango da, 3 edo 4 aldiz txikiagoa, izan ere, datuak jasotzeko PDF) Tj T* 0 Tw (formatuko liburuen maketazioak ez du kontuan izan hitz zatiketen kopurua txikitzea ) Tj /F1 10 Tf 0 0 .501961 rg 6 Ts (2) Tj /F1 12 Tf 0 0 0 rg 0 Ts (.) Tj T* ET
 Q
 Q
 q
@@ -1966,10 +1969,10 @@ Q
  
 endstream
 endobj
-% 'R18': class PDFStream 
-18 0 obj
+% 'R21': class PDFStream 
+21 0 obj
 % page stream
-<< /Length 493 >>
+<< /Length 911 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -1989,6 +1992,25 @@ Q
 q
 1 0 0 1 91.03937 0 cm
 q
+BT 1 0 0 1 0 12 Tm 2.598488 Tw 12 TL /F1 12 Tf 0 0 0 rg (Kalkulu guzti hauek programen bidez egin dira \() Tj /F3 12 Tf (grep ) Tj /F1 12 Tf (bereziki\) eta) Tj T* 0 Tw (baliteke guztiz zehatzak ez izate.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 688.6772 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 12 cm
+q
+BT 1 0 0 1 0 0 Tm 12 TL /F1 12 Tf 0 0 .501961 rg (2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 0 cm
+q
 0 0 0 rg
 BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL 7.623199 Tw (Kalkulu zehatza egiteko paperean saltzen diren liburuen PDF) Tj T* 0 Tw (fitxategiak beharko genituzke.) Tj T* ET
 Q
@@ -1999,67 +2021,70 @@ Q
  
 endstream
 endobj
-% 'R19': class PDFPageLabels 
-19 0 obj
+% 'R22': class PDFPageLabels 
+22 0 obj
 % Document Root
 << /Nums [ 0
- 20 0 R
+ 23 0 R
  1
- 21 0 R
+ 24 0 R
  2
- 22 0 R ] >>
+ 25 0 R ] >>
 endobj
-% 'R20': class PDFPageLabel 
-20 0 obj
+% 'R23': class PDFPageLabel 
+23 0 obj
 % None
 << /S /D
  /St 1 >>
 endobj
-% 'R21': class PDFPageLabel 
-21 0 obj
+% 'R24': class PDFPageLabel 
+24 0 obj
 % None
 << /S /D
  /St 2 >>
 endobj
-% 'R22': class PDFPageLabel 
-22 0 obj
+% 'R25': class PDFPageLabel 
+25 0 obj
 % None
 << /S /D
  /St 3 >>
 endobj
 xref
-0 23
+0 26
 0000000000 65535 f
 0000000113 00000 n
-0000000221 00000 n
-0000000386 00000 n
-0000000573 00000 n
-0000000815 00000 n
-0000001129 00000 n
-0000001354 00000 n
-0000001668 00000 n
-0000001893 00000 n
-0000002193 00000 n
-0000002352 00000 n
-0000002630 00000 n
-0000002755 00000 n
-0000002955 00000 n
-0000003108 00000 n
-0000003231 00000 n
-0000017000 00000 n
-0000033467 00000 n
-0000034062 00000 n
-0000034181 00000 n
-0000034258 00000 n
-0000034335 00000 n
+0000000234 00000 n
+0000000399 00000 n
+0000000586 00000 n
+0000000843 00000 n
+0000001069 00000 n
+0000001391 00000 n
+0000001617 00000 n
+0000001931 00000 n
+0000002158 00000 n
+0000002333 00000 n
+0000002559 00000 n
+0000002869 00000 n
+0000003028 00000 n
+0000003306 00000 n
+0000003431 00000 n
+0000003631 00000 n
+0000003783 00000 n
+0000003907 00000 n
+0000017762 00000 n
+0000033520 00000 n
+0000034533 00000 n
+0000034652 00000 n
+0000034729 00000 n
+0000034806 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\022A\252\307X\260\367\376\254\276\244\210\252J\027\266) (\022A\252\307X\260\367\376\254\276\244\210\252J\027\266)] 
+ [(\261\022O\223\356\247\335\227\247M\012!\202\200\312\316) (\261\022O\223\356\247\335\227\247M\012!\202\200\312\316)] 
 
- /Info 11 0 R
- /Root 10 0 R
- /Size 23 >>
+ /Info 14 0 R
+ /Root 13 0 R
+ /Size 26 >>
 startxref
-34382
+34853
 %%EOF

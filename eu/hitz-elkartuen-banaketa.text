@@ -6,9 +6,8 @@ Hitz elkartuen banaketa
 :tags: ortotipografia
 :slug: hitz-elkartuen-banaketa
 :author: TeXtnik
-:summary: Marratxoz elkartutako hitzak lerroz aldatzean bikoiztu behar al dute marratxoa?
+:summary: Eleberri battetan zenbat aldiz bikoiztu behar da hitz elkartuen marratxoa; lerro aldaketa batean banatzen direnean?
 :lang: eu
-
 
 Euskaltzaindiaren 13. arauak (1994ko azaroaren 25) lerro aldaketa arautzen du:
 
@@ -20,7 +19,7 @@ hurrengo lerroan marratxoa «bikoiztu», bai ala ez?
 Hitz elkartuen osakera eta idazkerari buruzko 25. arauak ez du ezta honelako kasuetarako araurik edo gomendiori. 
 Baina arauen bertan marratxoa bikoiztu egiten da!
 Erabilera honen aldeko eta kontrako argudioak daude. 
-Alde; irakurlearen ulermenari laguntzen dio eta kontra; behar ez diren zeinuak testuan ez jartzea.
+Alde; irakurlearen ulermenari laguntzen dio eta kontra; behar ez diren zeinuak testuan ez jartzearen printzipioa.
 
 
 Zenbat aldiz mozten da hitz elkartu bat?
@@ -30,14 +29,11 @@ Ikusi dezagun eleberri batean zenbat alditan mozten den hitz elkartu bat marratx
 Argi dago mozketa faktore askoren menpe dagoela, eta beraz, azterketa estatistiko bat beharrezkoa dela.
 Kasu honetan `Susa argitaletxeko <https://www.susa-literatura.com/ebook/>`_ 14 ebook erabili dira. 
 Hurrengo taulan liburu bakoitzaren karaktere eta hitz kopurua agertzen dira.
-Baita ere, zenbat marratxodun hitz elkartu dauden eta guzti hauen karaktere kopurua.
-
+Baita ere, zenbat marratxodun hitz elkartu dauden eta guzti hauen karaktere kopurua. [#]_
 
 ======================================== ====== =========== ================ ============================ ==================== 
 Liburua                                  Hitzak Karaktereak Hitz konposatuak Hitz konposatuen karaktereak Hitz konposatuak (%) 
 ======================================== ====== =========== ================ ============================ ==================== 
-Alberdi U, Euli-giro                     21918  159369      252              3312                         1.1                  
----------------------------------------- ------ ----------- ---------------- ---------------------------- -------------------- 
 Alkasoroko Benta - Mikel Taberna         30727  224896      258              3077                         0.8                  
 ---------------------------------------- ------ ----------- ---------------- ---------------------------- -------------------- 
 Alter ero - Bertol Arrieta               26334  194096      358              4541                         1.4                  
@@ -64,16 +60,14 @@ Parisen bizi naiz - Koldo Izagirre       14929  112273      37               470
 ---------------------------------------- ------ ----------- ---------------- ---------------------------- -------------------- 
 Pendrive - Arrate Mardaras               18201  131235      119              1418                         0.7                  
 ---------------------------------------- ------ ----------- ---------------- ---------------------------- -------------------- 
-Guztira                                  373434 2764071     3221             39985                        1.0                  
+Guztira                                  351516 2604702     2969             36673                        1.0                  
 ======================================== ====== =========== ================ ============================ ==================== 
 
 
-
-
-Taulan ikusi daitekenez, hitz konposatuak testuaren %1 osatzen dute.
+Taulan ikusi daitekeenez, hitz konposatuak testuaren %1 osatzen dute.
 Liburu hauen PDF formatuaren maketazioa aztertzerakoan hurrengo taulan agertzen diren lerro banaketa kopurua aurkitzen dira.
-Esan beharra dago, badirudiela maketazio hau automatikoki egin dela kontu haundirik izan gabe lerrro mozketak gutxitzeko.
-Orrialde askotan jarraian agertzen dira lerro mozketa asko; kasu batzutan 6 lerro mozketa jarraitua badira!
+Esan beharra dago, badirudiela maketazio hau automatikoki egin dela kontuan  izan gabe lerro mozketak gutxitzea.
+Orrialde askotan jarraian agertzen dira lerro mozketa asko; kasu batzutan 6 lerro mozketa jarraitu badira!
 
 ======================================== ============= ======= ================= ======================= ============================ 
 Liburua                                  Hitz zatiketa Lerroak Zatiketak lerroko Zatiketak karakterekiko Zatiketak hitz konposatuetan 
@@ -104,15 +98,16 @@ Parisen bizi naiz - Koldo Izagirre       216           3353    6.4              
 ---------------------------------------- ------------- ------- ----------------- ----------------------- ---------------------------- 
 Pendrive - Arrate Mardaras               850           2775    30.6              0.00647693069684        9.0                          
 ---------------------------------------- ------------- ------- ----------------- ----------------------- ---------------------------- 
-Guztira                                  16923         58352   29.0              0.00612249106481        245.0                       
-======================================== ============= ======= ================= ======================= ============================ 
+Guztira                                  16923         58352   29.0              0.00649709640489        238.0                        
+======================================== ============= ======= ================= ======================= ============================
 
-Hitz konposatuei dagokin zatiketak honela kalkulatu dira: 2. taulako «zatiketa karaktereekiko» 1. taulako «Hitz konposatuen karaktereak» zenbakiarekin biderkatu da; honek gutxi gorabeherako kopuru bat ematen digu. 
-Guztira 13 liburu daudenez; bataz bestez hitz konposatuei dagokien «marratxo bikoizketa» 245/13 = 19 dira. 
+Hitz konposatuei dagokien zatiketak honela kalkulatu dira: 2. taulako «zatiketa karaktereekiko» 1. taulako «Hitz konposatuen karaktereak» zenbakiarekin biderkatu da; honek gutxi gorabeherako kopuru bat ematen digu. 
+Guztira 13 liburu daudenez; bataz bestez hitz konposatuei dagokien «marratxo bikoizketa» 238/13 = 18 dira. 
 
-Ondorioak
-=========
+Ondorioa
+========
 
-Beraz, eleberri batean asko jota 19 aldiz «bikoiztu» beharko da marratxoa. Benetan, kopuru hori txikiagoa izango da, 3 edo 4 aldiz txikiagoa, izan ere, datuak jasotzeko PDF formatuko liburuen maketazioak ez du kontuan izan hitz zatiketen kopurua txikitzea [#]_.
+Beraz, eleberri batean asko jota 18 aldiz «bikoiztu» beharko da marratxoa. Benetan, kopuru hori txikiagoa izango da, 3 edo 4 aldiz txikiagoa, izan ere, datuak jasotzeko PDF formatuko liburuen maketazioak ez du kontuan izan hitz zatiketen kopurua txikitzea [#]_.
 
+.. [#] Kalkulu guzti hauek programen bidez egin dira (``grep`` bereziki) eta baliteke guztiz zehatzak ez izate. 
 .. [#] Kalkulu zehatza egiteko paperean saltzen diren liburuen PDF fitxategiak beharko genituzke.
