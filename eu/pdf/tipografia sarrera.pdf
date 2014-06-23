@@ -1,139 +1,42 @@
 %PDF-1.4
 %“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
-% 'BasicFonts': class PDFDictionary 
 1 0 obj
-% The standard fonts dictionary
-<< /F1 2 0 R
- /F2 3 0 R
- /F3 5 0 R >>
+<< /F1 2 0 R /F2 3 0 R /F3 5 0 R >>
 endobj
-% 'F1': class PDFType1Font 
 2 0 obj
-% Font Helvetica
-<< /BaseFont /Helvetica
- /Encoding /WinAnsiEncoding
- /Name /F1
- /Subtype /Type1
- /Type /Font >>
+<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
 endobj
-% 'F2': class PDFType1Font 
 3 0 obj
-% Font Helvetica-Bold
-<< /BaseFont /Helvetica-Bold
- /Encoding /WinAnsiEncoding
- /Name /F2
- /Subtype /Type1
- /Type /Font >>
+<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
 endobj
-% 'Annot.NUMBER1': class PDFDictionary 
 4 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://www.ehu.es/eeh/cgi/bila?z=Ortografia) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 367.4262
- 529.9236
- 525.2507
- 541.9236 ]
- /Subtype /Link
- /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (http://www.ehu.es/eeh/cgi/bila?z=Ortografia) >> /Border [ 0 0 0 ] /Rect [ 367.4262 529.9236 525.2507 541.9236 ] /Subtype /Link /Type /Annot >>
 endobj
-% 'F3': class PDFType1Font 
 5 0 obj
-% Font Helvetica-Oblique
-<< /BaseFont /Helvetica-Oblique
- /Encoding /WinAnsiEncoding
- /Name /F3
- /Subtype /Type1
- /Type /Font >>
+<< /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
 endobj
-% 'Page1': class PDFPage 
 6 0 obj
-% Page dictionary
-<< /Annots [ 4 0 R ]
- /Contents 12 0 R
- /MediaBox [ 0
- 0
- 595.2756
- 841.8898 ]
- /Parent 11 0 R
- /Resources << /Font 1 0 R
- /ProcSet [ /PDF
- /Text
- /ImageB
- /ImageC
- /ImageI ] >>
- /Rotate 0
- /Trans <<  >>
- /Type /Page >>
+<< /Annots [ 4 0 R ] /Contents 12 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 11 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
 endobj
-% 'Annot.NUMBER2': class PDFDictionary 
 7 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://www.tex-tipografia.com/ortotypo.html) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 192.9732
- 751.5236
- 427.1279
- 763.5236 ]
- /Subtype /Link
- /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (http://www.tex-tipografia.com/ortotypo.html) >> /Border [ 0 0 0 ] /Rect [ 192.9732 751.5236 427.1279 763.5236 ] /Subtype /Link /Type /Annot >>
 endobj
-% 'Page2': class PDFPage 
 8 0 obj
-% Page dictionary
-<< /Annots [ 7 0 R ]
- /Contents 13 0 R
- /MediaBox [ 0
- 0
- 595.2756
- 841.8898 ]
- /Parent 11 0 R
- /Resources << /Font 1 0 R
- /ProcSet [ /PDF
- /Text
- /ImageB
- /ImageC
- /ImageI ] >>
- /Rotate 0
- /Trans <<  >>
- /Type /Page >>
+<< /Annots [ 7 0 R ] /Contents 13 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 11 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
 endobj
-% 'R9': class PDFCatalog 
 9 0 obj
-% Document Root
-<< /Outlines 14 0 R
- /PageLabels 15 0 R
- /PageMode /UseNone
- /Pages 11 0 R
- /Type /Catalog >>
+<< /Outlines 14 0 R /PageLabels 15 0 R /PageMode /UseNone /Pages 11 0 R /Type /Catalog >>
 endobj
-% 'R10': class PDFInfo 
 10 0 obj
-<< /Author (TeXtnik)
- /CreationDate (D:20140401165533-01'00')
- /Creator (\(unspecified\))
- /Keywords ()
- /Producer (ReportLab PDF Library - www.reportlab.com)
- /Subject (\(unspecified\))
- /Title (Tipografia, ortotipografia eta mikrotipografia) >>
+<< /Author (TeXtnik) /CreationDate (D:20140623114339-01'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+  /Title (Tipografia, ortotipografia eta mikrotipografia) >>
 endobj
-% 'R11': class PDFPages 
 11 0 obj
-% page tree
-<< /Count 2
- /Kids [ 6 0 R
- 8 0 R ]
- /Type /Pages >>
+<< /Count 2 /Kids [ 6 0 R 8 0 R ] /Type /Pages >>
 endobj
-% 'R12': class PDFStream 
 12 0 obj
-% page stream
 << /Length 7759 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -501,9 +404,7 @@ Q
  
 endstream
 endobj
-% 'R13': class PDFStream 
 13 0 obj
-% page stream
 << /Length 319 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -516,59 +417,43 @@ Q
  
 endstream
 endobj
-% 'R14': class PDFOutlines 
 14 0 obj
-<< /Count 0
- /Type /Outlines >>
+<< /Count 0 /Type /Outlines >>
 endobj
-% 'R15': class PDFPageLabels 
 15 0 obj
-% Document Root
-<< /Nums [ 0
- 16 0 R
- 1
- 17 0 R ] >>
+<< /Nums [ 0 16 0 R 1 17 0 R ] >>
 endobj
-% 'R16': class PDFPageLabel 
 16 0 obj
-% None
-<< /S /D
- /St 1 >>
+<< /S /D /St 1 >>
 endobj
-% 'R17': class PDFPageLabel 
 17 0 obj
-% None
-<< /S /D
- /St 2 >>
+<< /S /D /St 2 >>
 endobj
 xref
 0 18
 0000000000 65535 f
-0000000113 00000 n
-0000000233 00000 n
-0000000398 00000 n
-0000000585 00000 n
-0000000834 00000 n
-0000001013 00000 n
-0000001326 00000 n
-0000001573 00000 n
-0000001872 00000 n
-0000002030 00000 n
-0000002328 00000 n
-0000002443 00000 n
-0000010301 00000 n
-0000010720 00000 n
-0000010803 00000 n
-0000010909 00000 n
-0000010986 00000 n
+0000000075 00000 n
+0000000129 00000 n
+0000000239 00000 n
+0000000354 00000 n
+0000000552 00000 n
+0000000670 00000 n
+0000000897 00000 n
+0000001095 00000 n
+0000001322 00000 n
+0000001430 00000 n
+0000001694 00000 n
+0000001763 00000 n
+0000009579 00000 n
+0000009954 00000 n
+0000010004 00000 n
+0000010057 00000 n
+0000010094 00000 n
 trailer
 << /ID 
- % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\306s\2472\220\002#;\025;\224\364\313\365w\015) (\306s\2472\220\002#;\025;\224\364\313\365w\015)] 
-
- /Info 10 0 R
- /Root 9 0 R
- /Size 18 >>
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com)
+ [(\375\353\026\021\206\017\251"D\206\312S\247%|\266) (\375\353\026\021\206\017\251"D\206\312S\247%|\266)]
+ /Info 10 0 R /Root 9 0 R /Size 18 >>
 startxref
-11033
+10131
 %%EOF

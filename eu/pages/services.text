@@ -1,22 +1,21 @@
-Title: Servicios
+Title: Services
 Date: 2013-09-04 10:20
 Tags: TeXtnik
 Author: TeXtnik
-Summary: Servicios.
+Summary: Servieces.
 slug: services
-lang: es
+lang: en
 
 <!--- save_as: index.html pages/services.html --->
 
-Ofrecemos soporte para actividades relacionadas con LaTeX:
+We offer support for LaTeX related activities and problems:
 
-* maquetación de libros, revistas, artículos y tesis doctorales; tanto adaptando como desarrollando clases y paquetes;
-* conversión de documentos (Word, LibreOffice, ...) a LaTeX;
-* corrección de errores en ficheros LaTeX;
-* busqueda de paquetes que puedas ayudarte;
-* diseño e implementación de tablas complejas;
-* creaación de figuras y gráficas con TikZ y
-* enseñarte y tutorizarte para dominar LaTeX.
+* layout of books, journals, articles and theses; either by adapting or writing  classes and packages;
+* convert  documents (Word, LibreOffice, ...) to LaTeX;
+* fix errors in your LaTeX files;
+* research to find the packages that can help you;
+* Design and implement complex tables;
+* create graphs and plots with TikZ and
+* teach and tutor you.
 
-
-Contactanos en  <textnik.typesetting@gmail.com> para mas información.
+Fell free to contact us <textnik.typesetting@gmail.com> for more information.

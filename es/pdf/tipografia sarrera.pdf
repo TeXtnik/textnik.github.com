@@ -1,155 +1,45 @@
 %PDF-1.4
 %“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
-% 'BasicFonts': class PDFDictionary 
 1 0 obj
-% The standard fonts dictionary
-<< /F1 2 0 R
- /F2 3 0 R
- /F3 5 0 R >>
+<< /F1 2 0 R /F2 3 0 R /F3 5 0 R >>
 endobj
-% 'F1': class PDFType1Font 
 2 0 obj
-% Font Helvetica
-<< /BaseFont /Helvetica
- /Encoding /WinAnsiEncoding
- /Name /F1
- /Subtype /Type1
- /Type /Font >>
+<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
 endobj
-% 'F2': class PDFType1Font 
 3 0 obj
-% Font Helvetica-Bold
-<< /BaseFont /Helvetica-Bold
- /Encoding /WinAnsiEncoding
- /Name /F2
- /Subtype /Type1
- /Type /Font >>
+<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
 endobj
-% 'Annot.NUMBER1': class PDFDictionary 
 4 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://lema.rae.es/drae/?val=ortograf\355a) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 415.1872
- 529.9236
- 532.3508
- 541.9236 ]
- /Subtype /Link
- /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (http://lema.rae.es/drae/?val=ortograf\355a) >> /Border [ 0 0 0 ] /Rect [ 415.1872 529.9236 532.3508 541.9236 ] /Subtype /Link /Type /Annot >>
 endobj
-% 'F3': class PDFType1Font 
 5 0 obj
-% Font Helvetica-Oblique
-<< /BaseFont /Helvetica-Oblique
- /Encoding /WinAnsiEncoding
- /Name /F3
- /Subtype /Type1
- /Type /Font >>
+<< /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
 endobj
-% 'Annot.NUMBER2': class PDFDictionary 
 6 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://lema.rae.es/drae/?val=ortograf\355a) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 72.69291
- 517.9236
- 198.7649
- 529.9236 ]
- /Subtype /Link
- /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (http://lema.rae.es/drae/?val=ortograf\355a) >> /Border [ 0 0 0 ] /Rect [ 72.69291 517.9236 198.7649 529.9236 ] /Subtype /Link /Type /Annot >>
 endobj
-% 'Page1': class PDFPage 
 7 0 obj
-% Page dictionary
-<< /Annots [ 4 0 R
- 6 0 R ]
- /Contents 13 0 R
- /MediaBox [ 0
- 0
- 595.2756
- 841.8898 ]
- /Parent 12 0 R
- /Resources << /Font 1 0 R
- /ProcSet [ /PDF
- /Text
- /ImageB
- /ImageC
- /ImageI ] >>
- /Rotate 0
- /Trans <<  >>
- /Type /Page >>
+<< /Annots [ 4 0 R 6 0 R ] /Contents 13 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 12 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
 endobj
-% 'Annot.NUMBER3': class PDFDictionary 
 8 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://www.tex-tipografia.com/ortotypo.html) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 62.69291
- 739.5236
- 290.1049
- 751.5236 ]
- /Subtype /Link
- /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (http://www.tex-tipografia.com/ortotypo.html) >> /Border [ 0 0 0 ] /Rect [ 62.69291 739.5236 290.1049 751.5236 ] /Subtype /Link /Type /Annot >>
 endobj
-% 'Page2': class PDFPage 
 9 0 obj
-% Page dictionary
-<< /Annots [ 8 0 R ]
- /Contents 14 0 R
- /MediaBox [ 0
- 0
- 595.2756
- 841.8898 ]
- /Parent 12 0 R
- /Resources << /Font 1 0 R
- /ProcSet [ /PDF
- /Text
- /ImageB
- /ImageC
- /ImageI ] >>
- /Rotate 0
- /Trans <<  >>
- /Type /Page >>
+<< /Annots [ 8 0 R ] /Contents 14 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 12 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
 endobj
-% 'R10': class PDFCatalog 
 10 0 obj
-% Document Root
-<< /Outlines 15 0 R
- /PageLabels 16 0 R
- /PageMode /UseNone
- /Pages 12 0 R
- /Type /Catalog >>
+<< /Outlines 15 0 R /PageLabels 16 0 R /PageMode /UseNone /Pages 12 0 R /Type /Catalog >>
 endobj
-% 'R11': class PDFInfo 
 11 0 obj
-<< /Author (TeXtnik)
- /CreationDate (D:20140401165533-01'00')
- /Creator (\(unspecified\))
- /Keywords ()
- /Producer (ReportLab PDF Library - www.reportlab.com)
- /Subject (\(unspecified\))
- /Title (Tipograf\355a, ortotipograf\355a y microtipograf\355a) >>
+<< /Author (TeXtnik) /CreationDate (D:20140623114339-01'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+  /Title (Tipograf\355a, ortotipograf\355a y microtipograf\355a) >>
 endobj
-% 'R12': class PDFPages 
 12 0 obj
-% page tree
-<< /Count 2
- /Kids [ 7 0 R
- 9 0 R ]
- /Type /Pages >>
+<< /Count 2 /Kids [ 7 0 R 9 0 R ] /Type /Pages >>
 endobj
-% 'R13': class PDFStream 
 13 0 obj
-% page stream
 << /Length 7958 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -517,9 +407,7 @@ Q
  
 endstream
 endobj
-% 'R14': class PDFStream 
 14 0 obj
-% page stream
 << /Length 333 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -532,60 +420,44 @@ Q
  
 endstream
 endobj
-% 'R15': class PDFOutlines 
 15 0 obj
-<< /Count 0
- /Type /Outlines >>
+<< /Count 0 /Type /Outlines >>
 endobj
-% 'R16': class PDFPageLabels 
 16 0 obj
-% Document Root
-<< /Nums [ 0
- 17 0 R
- 1
- 18 0 R ] >>
+<< /Nums [ 0 17 0 R 1 18 0 R ] >>
 endobj
-% 'R17': class PDFPageLabel 
 17 0 obj
-% None
-<< /S /D
- /St 1 >>
+<< /S /D /St 1 >>
 endobj
-% 'R18': class PDFPageLabel 
 18 0 obj
-% None
-<< /S /D
- /St 2 >>
+<< /S /D /St 2 >>
 endobj
 xref
 0 19
 0000000000 65535 f
-0000000113 00000 n
-0000000233 00000 n
-0000000398 00000 n
-0000000585 00000 n
-0000000833 00000 n
-0000001026 00000 n
-0000001272 00000 n
-0000001593 00000 n
-0000001840 00000 n
-0000002140 00000 n
-0000002299 00000 n
-0000002604 00000 n
-0000002719 00000 n
-0000010776 00000 n
-0000011209 00000 n
-0000011292 00000 n
-0000011398 00000 n
-0000011475 00000 n
+0000000075 00000 n
+0000000129 00000 n
+0000000239 00000 n
+0000000354 00000 n
+0000000551 00000 n
+0000000669 00000 n
+0000000866 00000 n
+0000001099 00000 n
+0000001297 00000 n
+0000001524 00000 n
+0000001633 00000 n
+0000001904 00000 n
+0000001973 00000 n
+0000009988 00000 n
+0000010377 00000 n
+0000010427 00000 n
+0000010480 00000 n
+0000010517 00000 n
 trailer
 << /ID 
- % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\026p\333\\\264\211a^\267h\231Q\236\246Q|) (\026p\333\\\264\211a^\267h\231Q\236\246Q|)] 
-
- /Info 11 0 R
- /Root 10 0 R
- /Size 19 >>
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com)
+ [(\301\256\372d,\273/I\000\347\273\337Ejd") (\301\256\372d,\273/I\000\347\273\337Ejd")]
+ /Info 11 0 R /Root 10 0 R /Size 19 >>
 startxref
-11522
+10554
 %%EOF
