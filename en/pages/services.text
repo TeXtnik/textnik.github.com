@@ -1,21 +1,20 @@
-Title: Servicios
+Title: Zerbitzuak
 Date: 2013-09-04 10:20
-Tags: pelican, publishing
+Tags: TeXtnik
 Author: TeXtnik
-Summary: Servieces.
+Summary: Zerbitzuak.
 slug: services
-lang: es
+lang: eu
 
-<!--- save_as: index.html pages/services.html --->
 
-We offer support for LaTeX related activities and problems:
+LaTeX-en inguruko ekintzetan eta arazoen konponketetan laguntzen dugu:
 
-* layout of books, journals, articles and theses; either by adapting or writing  classes and packages;
-* convert  documents (Word, LibreOffice, ...) to LaTeX;
-* fix errors in your files;
-* research to find the packages that can help you;
-* Design and implement complex tables;
-* create graphs and plots with TikZ and
-* teach and tutor you
+* liburu, aldizkari, artikulu eta doktoretza tesien maketazioa; klaseak eta paketeak egokituz edo idatziz;
+* Dokumentuak (Word, LibreOffice, ...) LaTeXera itzuli;
+* zure LaTeX fitxategietako erroreak konpondu;
+* lagundu ahal dizun paketeak bilatu;
+* taula konplexuak diseinatu eta ezarri;
+* TikZarekin irudiak eta grafikoak sortu eta
+* LaTeX erabiltzen irakatsi.
 
-Fell free to contact us <textnik.typesetting@gmail.com> for more information.
+Informazio gehiagorako idatzi hurrengo helbidera: <textnik.typesetting@gmail.com>
